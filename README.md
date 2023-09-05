@@ -1,1 +1,1 @@
-# ths is a newProject Exesices tutorials
+# this is a newProject Exesices tutorials
