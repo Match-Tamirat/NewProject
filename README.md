@@ -1,1 +1,1 @@
-# the is some new project 
+# this is some new project 
