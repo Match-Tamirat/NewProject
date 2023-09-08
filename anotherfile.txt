@@ -1,3 +1,8 @@
 this is from local reposter
+<<<<<<< HEAD
 change from another file
 roposistory
+=======
+change from DevOps on githun
+something file
+>>>>>>> b2d01b840ae14c4315e478085924cff58957a41f
