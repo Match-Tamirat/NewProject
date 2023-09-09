@@ -60,9 +60,6 @@ Before diving into the Git tutorials, ensure you have the following prerequisite
 
    Start by cloning this Git Tutorials repository to your local machine:
 
-   ```bash
-   git clone https://github.com/yourusername/git-tutorials.git
-
   ```bash
 git clone https://github.com/yourusername/git-tutorials.git
   ``````
