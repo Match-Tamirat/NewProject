@@ -65,6 +65,4 @@ Before diving into the Git tutorials, ensure you have the following prerequisite
 
   ```bash
 git clone https://github.com/yourusername/git-tutorials.git
-
-  
   ``````
