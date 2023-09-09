@@ -2,7 +2,7 @@
 
 Welcome to the Git Tutorials repository! This project aims to provide comprehensive tutorials and guides to help you understand and master the Git version control system. Whether you're a beginner looking to get started with the basics or an experienced developer seeking advanced Git techniques, you'll find valuable resources here.
 
-![](git%20and%20github%20tutoraials.jpg)
+![Git and Github](git%20and%20github%20tutoraials.jpg)
 ![Git Logo](./How-to-use-GitHub-A.png)
 
 
